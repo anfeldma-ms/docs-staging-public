@@ -10,7 +10,7 @@ As GA approaches this page will be updated.
 
 ## Java SDK 4.0 Blog posts
 
-* #1 - Quickstarts, samples and docs
+* [#1 - Quickstarts, samples and docs](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-1/)
 
 ## Samples and Docs
 
