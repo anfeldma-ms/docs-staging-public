@@ -23,8 +23,12 @@ As GA approaches this page will be updated.
 
 ## TSGs
 
-* [TSGs Link](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/229391/AzureCosmosDB)
-
+* [TSG SDK](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/254603/TSG-SDK)
+    * [Creating SDK CRIs](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/255843/SDK-Creating-SDK-CRIs)
+    * [Java SDK General Troubleshooting](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/237400/SDK-Java-SDK-General-troubleshooting)
+    * [Java Exceptions](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/237398/SDK-Java-Exceptions)
+    * [Java Latency](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/237399/SDK-Java-Latency)
+    
 ## Historical Maven Artifacts
 
 * [Java SDK 3.x.x, Sync and Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmos)
