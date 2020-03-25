@@ -34,3 +34,8 @@ As GA approaches this page will be updated.
 * [Java SDK 3.x.x, Sync and Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmos)
 * [Java SDK 2.x.x Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmosdb)
 * [Java SDK 2.x.x "Legacy" Sync](https://mvnrepository.com/artifact/com.microsoft.azure/azure-documentdb)
+
+## Additional Topics
+
+* [DISTINCT Queries](https://www.w3schools.com/sql/sql_distinct.asp)
+* [GROUP BY Queries](https://www.w3schools.com/sql/sql_groupby.asp)
