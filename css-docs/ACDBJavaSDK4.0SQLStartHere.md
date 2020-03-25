@@ -12,6 +12,8 @@ As GA approaches this page will be updated.
 
 * Blog posts
     * [#1 - Quickstarts, samples and docs](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-1/)
+* Workshop content
+    * [Cosmos DB hands-on labs](aka.ms/cosmosworkshop) (can be found from the workshop main page)
 
 ## Samples and Docs
 
