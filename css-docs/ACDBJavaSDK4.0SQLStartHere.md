@@ -21,6 +21,10 @@ As GA approaches this page will be updated.
 * [Troubleshooting, Java Async SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-java-async-sdk)
 * [SLA](https://azure.microsoft.com/en-us/support/legal/sla/cosmos-db/v1_3/) (Applies to SQL API generally)
 
+## TSGs
+
+* [TSGs Link](https://supportability.visualstudio.com/AzureCosmosDB/_wiki/wikis/AzureCosmosDB.wiki/229391/AzureCosmosDB)
+
 ## Historical Maven Artifacts
 
 * [Java SDK 3.x.x, Sync and Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmos)
