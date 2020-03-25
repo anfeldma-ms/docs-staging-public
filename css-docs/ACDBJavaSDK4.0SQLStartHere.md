@@ -8,9 +8,10 @@ As GA approaches this page will be updated.
 * [Release Notes](https://aka.ms/ACDBJavaSDK4.0SQLReleaseNotes) (Not yet available, links to v2.x.x)
 * [Maven Artifact](https://mvnrepository.com/artifact/com.azure/azure-cosmos/4.0.1-beta.1) (Links to public preview beta)
 
-## Java SDK 4.0 Blog posts
+## Java SDK 4.0 Support for Getting Started
 
-* [#1 - Quickstarts, samples and docs](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-1/)
+* Blog posts
+    * [#1 - Quickstarts, samples and docs](https://devblogs.microsoft.com/cosmosdb/java-sdk-v4-1/)
 
 ## Samples and Docs
 
