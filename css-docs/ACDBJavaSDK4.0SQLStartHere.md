@@ -32,7 +32,8 @@ As GA approaches this page will be updated.
     
 ## Historical Maven Artifacts
 
-* [Java SDK 3.x.x, Sync and Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmos)
+* [Java SDK 4.0](https://mvnrepository.com/artifact/com.azure/azure-cosmos)
+* [Java SDK 3.x.x](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmos)
 * [Java SDK 2.x.x Async](https://mvnrepository.com/artifact/com.microsoft.azure/azure-cosmosdb)
 * [Java SDK 2.x.x "Legacy" Sync](https://mvnrepository.com/artifact/com.microsoft.azure/azure-documentdb)
 
